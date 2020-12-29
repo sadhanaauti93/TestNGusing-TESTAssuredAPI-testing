@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9721" started-at="२०२०-१२-२९T१०:३३:०५ IST" finished-at="२०२०-१२-२९T१०:३३:१४ IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9721" started-at="२०२०-१२-२९T१०:३३:०५ IST" finished-at="२०२०-१२-२९T१०:३३:१४ IST">
+      <class name="resrassuredtests.Demo10_DELETE_sadhanapratice">
+        <test-method status="PASS" signature="test3()[pri:0, instance:resrassuredtests.Demo10_DELETE_sadhanapratice@4c1909a3]" name="test3" duration-ms="9614" started-at="२०२०-१२-२९T१०:३३:०५ IST" finished-at="२०२०-१२-२९T१०:३३:१४ IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- resrassuredtests.Demo10_DELETE_sadhanapratice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
